@@ -1,0 +1,13 @@
+.container {
+    margin: auto;
+    width: 450px;
+    background-color: #f4f4f4;
+    padding: 25px;
+}
+button {
+    padding: 10px;
+    background-color: #4c69ba;
+    width: 400px;
+    color: white;
+    font-weight: bold;
+}
